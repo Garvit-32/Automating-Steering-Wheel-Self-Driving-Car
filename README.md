@@ -14,6 +14,7 @@ Go to the [link](https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/vi
 ```
 python train.py
 ```
+> PS: Training takes a lot of time
 
 ## Testing 
 
