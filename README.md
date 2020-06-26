@@ -1,7 +1,6 @@
 # Automating-Steering-Wheel-Self-Driving-Car
 
-This repository contain the code for automating a steer wheel by the implementation of NVIDIA research paper
-
+This repository contain the code for automating a steer wheel by the implementation of tensorflow v2.2.0 of Sully Chen works
 ## Demo 
 ![alt img](https://github.com/Garvit-32/Automating-Steering-Wheel-Self-Driving-Car/blob/master/images/example.gif)
 
